@@ -36,3 +36,4 @@ Once you have this... put the file in the same directory as the script... and ru
 ```
 python main.py [linkedIn_info.csv] 
 ```
+
