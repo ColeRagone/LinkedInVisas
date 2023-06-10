@@ -26,3 +26,10 @@ git clone https://github.com/[username]/[repository-name].git
 ```
 pip install -r requirements.txt
 ```
+
+**Usage**
+
+To use the script, you will first need the data from your personal linkedIn. Don't worry, none of this information is leaving your own computer. 
+Go to your LinkedIn profile, under "Account" you should see "Settings & Privacy". Once you click that, find "Data privacy" on the left panel... then select "Get a copy of your data"... **make sure you select ONLY the Connections** under the 2nd "Want something in particular?" option. 
+
+
