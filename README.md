@@ -14,3 +14,15 @@ This repository contains a script that allows users to analyze their LinkedIn co
 
 The LinkedIn Connection Analyzer and Visa Recommendation script is designed to help users gain insights into their LinkedIn connections and provide recommendations for enhancing their professional network. The script utilizes sentiment analysis techniques to cluster and define the companies where their LinkedIn connections work. It also leverages a large, locally downloaded but publicly available dataset to determine visa recommendations based on the likelihood of obtaining a visa.
 
+**Installation**
+
+To use this script, follow these steps:
+
+1. Clone the repository to your local machine:
+```
+git clone https://github.com/[username]/[repository-name].git
+```
+2. Install the required dependencies by running the following command:
+```
+pip install -r requirements.txt
+```
